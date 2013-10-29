@@ -1,0 +1,7 @@
+# Location of the SDK. This is only used by Ant
+sdk.dir=/path/to/sdk
+# This is an example keystore.properties file.
+store=/path/to/keystore 
+alias=keystorealias
+pass=keypass
+storePass=storepass
